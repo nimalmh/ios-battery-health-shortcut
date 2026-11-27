@@ -21,3 +21,9 @@ If an unsupported file is selected, the shortcut displays an alert (`No battery 
 
 ## 📸 Shortcut Preview
 ![Battery health report workflow](preview.png)
+
+## 📦 Backup File
+A raw backup copy of the shortcut (`Battery-Health-Report.shortcut`) is archived in this repository. For direct installation on iOS/iPadOS, please use the iCloud link above.
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
