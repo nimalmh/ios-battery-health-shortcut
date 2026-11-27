@@ -2,12 +2,15 @@
 
 A lightweight, privacy-friendly Apple Shortcut that extracts your device's **actual Maximum Battery Capacity (%)** and **Charge Cycle Count** directly from Apple's native Analytics log files—no third-party apps required.
 
+## 💡 Why Use This Shortcut?
+Unlike newer iPhones and M4+ iPads, **Apple does not display Battery Health or Cycle Count in Settings on devices like the iPad Pro (M1 & M2)** and older iPad/iPhone models. This shortcut reads the raw hardware diagnostics already logged by iPadOS/iOS so you can check your true battery condition in seconds.
+
 ## 📥 Download
 👉 **[Get the Shortcut via iCloud](https://www.icloud.com/shortcuts/37ecf79e2a254101a4e1ccfb90846165)**
 
 ## 🚀 How to Use
 1. Open **Settings** on your iPhone or iPad.
-2. Go to **Privacy & Security** → **Analytics & Improvements** → **Share Analytics Data (if it is off, turn it On and wait 24 hours)** → **View Analytics Data**.
+2. Go to **Privacy & Security** → **Analytics & Improvements** → **Analytics Data**.
 3. Open the most recent file starting with `Analytics-` (e.g., `Analytics-2026-...`).
 4. Tap the **Share** button in the top-right corner and select **Battery health report** from the Share Sheet.
    *(Alternatively, save the log file and run the shortcut directly to pick the file manually.)*
